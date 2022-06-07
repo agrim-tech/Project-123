@@ -1,0 +1,26 @@
+body{
+    background-image: url('bg2.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: 'Libre Franklin', sans-serif;
+}
+.heading{
+    background-color: rgba(75, 75, 75, 0.37);
+    margin-top: 0;
+    box-shadow: 5px 5px 5px rgb(41, 41, 41);
+}
+.copyright{
+    background-color: rgba(97, 97, 97, 0.644);
+    position:absolute;
+    width:100%;
+    text-align: left;
+    bottom: 0;
+    line-height: 2;
+    font-size: 21px;
+    font-weight: 500;
+    color: black;
+}
+.note{
+    font-size: 22px;
+    font-weight: 500;
+}
