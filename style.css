@@ -24,3 +24,8 @@ body{
     font-size: 22px;
     font-weight: 500;
 }
+canvas{
+    border: solid 3px rgb(15, 15, 15);
+    border-radius: 15px;
+    background-color: rgb(230, 230, 230);
+}
